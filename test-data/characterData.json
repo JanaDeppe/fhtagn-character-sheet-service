@@ -1,0 +1,445 @@
+{
+    "characterSkills": {
+      "1725094941039-9307": {
+        "skillname": "accounting",
+        "specialisation": "",
+        "modIds": [
+          "1725094941040-2243",
+          "1725094941062-4637",
+          "1725094965164-2859"
+        ]
+      },
+      "1725094941041-1886": {
+        "skillname": "bureaucracy",
+        "specialisation": "",
+        "modIds": [
+          "1725094941043-17715",
+          "1725094941063-24060",
+          "1725094966158-46658"
+        ]
+      },
+      "1725094941043-33579": {
+        "skillname": "stealth",
+        "specialisation": "",
+        "modIds": [
+          "1725094941044-12813",
+          "1725094941044-28752"
+        ]
+      },
+      "1725094941046-37241": {
+        "skillname": "criminology",
+        "specialisation": "",
+        "modIds": [
+          "1725094941046-49364",
+          "1725094941046-5231"
+        ]
+      },
+      "1725094941047-10894": {
+        "skillname": "psychology",
+        "specialisation": "",
+        "modIds": [
+          "1725094941048-25766",
+          "1725094941048-33756"
+        ]
+      },
+      "1725094941049-24273": {
+        "skillname": "law",
+        "specialisation": "",
+        "modIds": [
+          "1725094941051-13640",
+          "1725094941051-48988"
+        ]
+      },
+      "1725094941051-7897": {
+        "skillname": "search",
+        "specialisation": "",
+        "modIds": [
+          "1725094941052-24229",
+          "1725094941054-42561"
+        ]
+      },
+      "1725094941055-19642": {
+        "skillname": "persuade",
+        "specialisation": "",
+        "modIds": [
+          "1725094941055-38630",
+          "1725094941056-21520"
+        ]
+      },
+      "1725094941057-38948": {
+        "skillname": "alertness",
+        "specialisation": "",
+        "modIds": [
+          "1725094941057-1982",
+          "1725094941057-45320"
+        ]
+      },
+      "1725094941059-5462": {
+        "skillname": "unarmedCombat",
+        "specialisation": "",
+        "modIds": [
+          "1725094941060-33786",
+          "1725094941061-12794"
+        ]
+      },
+      "1725094941064-49168": {
+        "skillname": "drive",
+        "specialisation": "",
+        "modIds": [
+          "1725094941064-45829",
+          "1725094953732-40672"
+        ]
+      },
+      "1725094941065-27156": {
+        "skillname": "forensics",
+        "specialisation": "",
+        "modIds": [
+          "1725094941067-298"
+        ]
+      },
+      "1725094941068-18466": {
+        "skillname": "foreignLanguage",
+        "specialisation": "",
+        "modIds": [
+          "1725094941069-48839"
+        ]
+      },
+      "1725094941070-37913": {
+        "skillname": "history",
+        "specialisation": "",
+        "modIds": [
+          "1725094941070-5349",
+          "1725094949860-28879"
+        ]
+      },
+      "1725094941071-30042": {
+        "skillname": "computerScience",
+        "specialisation": "",
+        "modIds": [
+          "1725094941072-40163"
+        ]
+      },
+      "1725094941072-9305": {
+        "skillname": "art",
+        "specialisation": "",
+        "modIds": [
+          "1725094941073-46523"
+        ]
+      },
+      "1725094941074-16515": {
+        "skillname": "science",
+        "specialisation": "",
+        "modIds": [
+          "1725094941075-12499"
+        ]
+      },
+      "1725094941076-11144": {
+        "skillname": "occult",
+        "specialisation": "",
+        "modIds": [
+          "1725094941076-38482"
+        ]
+      },
+      "1725094941077-3751": {
+        "skillname": "firearms",
+        "specialisation": "",
+        "modIds": [
+          "1725094941078-18657"
+        ]
+      },
+      "1725094941079-42254": {
+        "skillname": "observe",
+        "specialisation": "",
+        "modIds": [
+          "1725094941080-49431",
+          "1725094961976-42205",
+          "1725094962212-33529"
+        ]
+      },
+      "1725094941080-18157": {
+        "skillname": "disguise",
+        "specialisation": "",
+        "modIds": [
+          "1725094941081-1751",
+          "1725094948575-12999"
+        ]
+      },
+      "1725094960407-49057": {
+        "skillname": "survival",
+        "modIds": [
+          "1725094960409-29225",
+          "1725094960900-42445"
+        ]
+      },
+      "1725094968059-15309": {
+        "skillname": "archeology",
+        "modIds": [
+          "1725094968064-1961"
+        ]
+      },
+      "1725094968762-7693": {
+        "skillname": "artillery",
+        "modIds": [
+          "1725094968763-45193"
+        ]
+      }
+    },
+    "modifications": {
+      "1725094941040-2243": {
+        "type": "professional",
+        "skillId": "1725094941039-9307",
+        "professionalValue": 50,
+        "conjunctionId": "1725094941107-30334"
+      },
+      "1725094941043-17715": {
+        "type": "professional",
+        "skillId": "1725094941041-1886",
+        "professionalValue": 50,
+        "conjunctionId": "1725094941107-30334"
+      },
+      "1725094941044-12813": {
+        "type": "professional",
+        "skillId": "1725094941043-33579",
+        "professionalValue": 50
+      },
+      "1725094941044-28752": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941043-33579"
+      },
+      "1725094941046-49364": {
+        "type": "professional",
+        "skillId": "1725094941046-37241",
+        "professionalValue": 40
+      },
+      "1725094941046-5231": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941046-37241"
+      },
+      "1725094941048-25766": {
+        "type": "professional",
+        "skillId": "1725094941047-10894",
+        "professionalValue": 50
+      },
+      "1725094941048-33756": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941047-10894"
+      },
+      "1725094941051-13640": {
+        "type": "professional",
+        "skillId": "1725094941049-24273",
+        "professionalValue": 30
+      },
+      "1725094941051-48988": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941049-24273"
+      },
+      "1725094941052-24229": {
+        "type": "professional",
+        "skillId": "1725094941051-7897",
+        "professionalValue": 50
+      },
+      "1725094941054-42561": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941051-7897"
+      },
+      "1725094941055-38630": {
+        "type": "professional",
+        "skillId": "1725094941055-19642",
+        "professionalValue": 50
+      },
+      "1725094941056-21520": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941055-19642"
+      },
+      "1725094941057-1982": {
+        "type": "professional",
+        "skillId": "1725094941057-38948",
+        "professionalValue": 50
+      },
+      "1725094941057-45320": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941057-38948"
+      },
+      "1725094941060-33786": {
+        "type": "professional",
+        "skillId": "1725094941059-5462",
+        "professionalValue": 50
+      },
+      "1725094941061-12794": {
+        "type": "selectedProfessional",
+        "skillId": "1725094941059-5462"
+      },
+      "1725094941062-4637": {
+        "type": "optional",
+        "skillId": "1725094941039-9307",
+        "professionalValue": 50,
+        "conjunctionId": "1725094941108-26659"
+      },
+      "1725094941063-24060": {
+        "type": "optional",
+        "skillId": "1725094941041-1886",
+        "professionalValue": 50,
+        "conjunctionId": "1725094941108-26659"
+      },
+      "1725094941064-45829": {
+        "type": "optional",
+        "skillId": "1725094941064-49168",
+        "professionalValue": 60
+      },
+      "1725094941067-298": {
+        "type": "optional",
+        "skillId": "1725094941065-27156",
+        "professionalValue": 40
+      },
+      "1725094941069-48839": {
+        "type": "optional",
+        "skillId": "1725094941068-18466",
+        "professionalValue": 40
+      },
+      "1725094941070-5349": {
+        "type": "optional",
+        "skillId": "1725094941070-37913",
+        "professionalValue": 50
+      },
+      "1725094941072-40163": {
+        "type": "optional",
+        "skillId": "1725094941071-30042",
+        "professionalValue": 40
+      },
+      "1725094941073-46523": {
+        "type": "optional",
+        "skillId": "1725094941072-9305",
+        "professionalValue": 40
+      },
+      "1725094941075-12499": {
+        "type": "optional",
+        "skillId": "1725094941074-16515",
+        "professionalValue": 40
+      },
+      "1725094941076-38482": {
+        "type": "optional",
+        "skillId": "1725094941076-11144",
+        "professionalValue": 50
+      },
+      "1725094941078-18657": {
+        "type": "optional",
+        "skillId": "1725094941077-3751",
+        "professionalValue": 60
+      },
+      "1725094941080-49431": {
+        "type": "optional",
+        "skillId": "1725094941079-42254",
+        "professionalValue": 40
+      },
+      "1725094941081-1751": {
+        "type": "optional",
+        "skillId": "1725094941080-18157",
+        "professionalValue": 50
+      },
+      "1725094948575-12999": {
+        "type": "selected",
+        "skillId": "1725094941080-18157"
+      },
+      "1725094949860-28879": {
+        "type": "selected",
+        "skillId": "1725094941070-37913"
+      },
+      "1725094953732-40672": {
+        "type": "selected",
+        "skillId": "1725094941064-49168"
+      },
+      "1725094960409-29225": {
+        "type": "bonus",
+        "skillId": "1725094960407-49057"
+      },
+      "1725094960900-42445": {
+        "type": "bonus",
+        "skillId": "1725094960407-49057"
+      },
+      "1725094961976-42205": {
+        "type": "bonus",
+        "skillId": "1725094941079-42254"
+      },
+      "1725094962212-33529": {
+        "type": "bonus",
+        "skillId": "1725094941079-42254"
+      },
+      "1725094965164-2859": {
+        "type": "bonus",
+        "skillId": "1725094941039-9307"
+      },
+      "1725094966158-46658": {
+        "type": "bonus",
+        "skillId": "1725094941041-1886"
+      },
+      "1725094968064-1961": {
+        "type": "bonus",
+        "skillId": "1725094968059-15309"
+      },
+      "1725094968763-45193": {
+        "type": "bonus",
+        "skillId": "1725094968762-7693"
+      }
+    },
+    "characterData": {
+      "attributeValues": {
+        "str": 12,
+        "con": 13,
+        "dex": 8,
+        "int": 13,
+        "det": 13,
+        "cha": 13
+      },
+      "connections": [
+        "Mutter",
+        "Bruder",
+        "Freundin"
+      ],
+      "facettes": [
+        "Reichtum",
+        "Status"
+      ],
+      "motivations": [
+        "Gierig",
+        "Stolz",
+        "",
+        "",
+        ""
+      ],
+      "personalInformation": {
+        "firstName": "Karla",
+        "lastName": "Kolumna",
+        "nativeLanguage": "Deutsch",
+        "age": "33",
+        "appearance": "groß",
+        "equipment": "Kamera",
+        "notes": "Whatever"
+      },
+      "profession": 1,
+      "professionVariant": "environmentalInvestigator"
+    },
+    "conjunctions": {
+        "1725094941107-30334": {
+          "skillIds": [
+            "1725094941039-9307",
+            "1725094941041-1886"
+          ],
+          "modIds": [
+            "1725094941040-2243",
+            "1725094941043-17715"
+          ],
+          "type": "or"
+        },
+        "1725094941108-26659": {
+          "skillIds": [
+            "1725094941039-9307",
+            "1725094941041-1886"
+          ],
+          "modIds": [
+            "1725094941062-4637",
+            "1725094941063-24060"
+          ],
+          "type": "or"
+        }
+    }
+  }
